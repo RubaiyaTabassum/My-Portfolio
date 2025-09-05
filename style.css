@@ -186,6 +186,7 @@ background-color: #ff4d4d;
     cursor: pointer;
     background-color: #ff4d4d;
     color: white;
+    border-radius: 5px;
 }
 .contact-info{
     width: 300px;
