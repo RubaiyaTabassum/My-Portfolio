@@ -126,7 +126,6 @@ h3{
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
-    display: flex;
     text-decoration: none;
     display: inline-block;
 }
